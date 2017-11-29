@@ -23,12 +23,21 @@
 
  h1, h2, h3, h4, h5, h6 {
      font-weight: 30;
-     /*font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
+
+.about-me {
+   font-weight: 30;
+   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   float: right;
+   width: 500px;
+ }
+
  section {
      padding: 100px 0;
  }
  section h2.section-heading {
+     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
      font-size: 40px;
      margin-top: 0;
      margin-bottom: 15px;
@@ -36,7 +45,7 @@
 
  @media (min-width:768px) {
      section {
-     padding: 150px 0;
+     padding: 75px 0;
  }
  }.btn {
      font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -124,7 +133,7 @@
  #mainNav.navbar-shrink {
      padding-top: 0;
      padding-bottom: 0;
-     background-color: #212529;
+     background-color: #e8e8e8;
  }
  #mainNav.navbar-shrink .navbar-brand {
      font-size: 1.25em;
@@ -162,8 +171,8 @@
  }
  @media (min-width:768px) {
      header.masthead .intro-text {
-     padding-top: 300px;
-     padding-bottom: 200px;
+     padding-top: 210px;
+     padding-bottom: 100px;
  }
  header.masthead .intro-text .intro-lead-in {
      font-size: 40px;
@@ -202,7 +211,8 @@
      -moz-transition: all ease .5s;
      transition: all ease .5s;
      opacity: 0;
-     background: rgba(254, 209, 54, .9);
+     /*background: rgba(254, 209, 54, .9);*/
+     background: rgba(232, 232, 232, .9);
  }
  #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
      opacity: 1;
@@ -236,9 +246,9 @@
  }
  #portfolio .portfolio-item .portfolio-caption p {
      font-size: 16px;
-     font-style: italic;
+     /*font-style: italic;*/
      margin: 0;
-     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;;
  }
  #portfolio * {
      z-index: 2;
