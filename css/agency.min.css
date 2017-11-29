@@ -163,8 +163,8 @@
  }
  @media (min-width:768px) {
      header.masthead .intro-text {
-     padding-top: 300px;
-     padding-bottom: 200px;
+     padding-top: 210px;
+     padding-bottom: 100px;
  }
  header.masthead .intro-text .intro-lead-in {
      font-size: 40px;
@@ -378,7 +378,6 @@
  }
  ul.social-buttons {
      margin-bottom: 0;
-     margin: auto;
  }
  ul.social-buttons li a {
      font-size: 20px;
