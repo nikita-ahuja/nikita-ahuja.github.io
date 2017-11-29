@@ -25,6 +25,14 @@
      font-weight: 30;
      font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
+
+.about-me {
+   font-weight: 30;
+   font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   float: right;
+   width: 500px;
+ }
+
  section {
      padding: 100px 0;
  }
@@ -203,7 +211,8 @@
      -moz-transition: all ease .5s;
      transition: all ease .5s;
      opacity: 0;
-     background: rgba(254, 209, 54, .9);
+     /*background: rgba(254, 209, 54, .9);*/
+     background: rgba(232, 232, 232, .9);
  }
  #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
      opacity: 1;
