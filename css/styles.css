@@ -11,3 +11,8 @@
 section#contact .section-heading {
   color: black;
 }
+
+.intro-text {
+  width: 660px;
+  /*text-align: center;*/
+}
