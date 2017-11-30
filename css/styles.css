@@ -1,3 +1,8 @@
-a {
-  color: #e8e8e8;
+#resume-link {
+  color: #868e96;
+  text-decoration: underline;
+}
+
+#resume-link:hover {
+  color: black;
 }
