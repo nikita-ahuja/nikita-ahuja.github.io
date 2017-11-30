@@ -1,0 +1,13 @@
+#resume-link, .source-link {
+  font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #868e96;
+  text-decoration: underline;
+}
+
+#resume-link:hover {
+  color: #fed136;
+}
+
+section#contact .section-heading {
+  color: black;
+}
