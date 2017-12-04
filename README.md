@@ -1,1 +1,1 @@
-[nikitaahuja.me](www.nikitaahuja.me)
+www.nikitaahuja.me
