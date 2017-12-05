@@ -177,7 +177,7 @@
  @media (min-width:768px) {
      header.masthead .intro-text {
      padding-top: 210px;
-     padding-bottom: 50px;
+     padding-bottom: 40px;
  }
  header.masthead .intro-text .intro-lead-in {
      font-size: 40px;
@@ -187,10 +187,10 @@
      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
  header.masthead .intro-text .intro-heading {
-     font-size: 75px;
+     font-size: 60px;
      font-weight: 700;
      line-height: 75px;
-     margin-bottom: 50px;
+     margin-bottom: 40px;
      font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
  }
  }.service-heading {
