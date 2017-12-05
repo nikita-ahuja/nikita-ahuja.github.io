@@ -12,13 +12,19 @@ section#contact .section-heading {
   color: black;
 }
 
+div.hidden {
+  display: none
+}
+
+.container {
+  padding-bottom: -50px;
+}
 /*.intro-text {
   width: 660px;
   /*text-align: center;*/
 /*}*/
 
-
-@media (min-width:528px) {
+/*@media (min-width:528px) {
     header.masthead .intro-text {
     padding-top: 210px;
     padding-bottom: 40px;
@@ -56,4 +62,4 @@ section#contact .section-heading {
             line-height: 75px;
             margin-bottom: 40px;
             font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        }
+        }*/
