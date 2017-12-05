@@ -5,7 +5,7 @@ $(document).ready(function() {
   // $("div.secondheading").toggle( "bounce", { times: 3 }, "slow" );
 
   $( ".firstheading" ).animate({
-    // width: "70%",
+    width: "100%",
     // opacity: 0.4,
     marginLeft: "0.6in",
     // fontSize: "3em",
@@ -13,9 +13,9 @@ $(document).ready(function() {
   }, 1500 );
 
   $( ".secondheading" ).animate({
-    // width: "70%",
+    width: "100%",
     // opacity: 0.4,
-    marginRight: "0.6in",
+    // marginRight: "0.6in",
     // fontSize: "3em",
     // borderWidth: "10px"
   }, 1500 );
