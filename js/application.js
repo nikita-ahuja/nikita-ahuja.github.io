@@ -4,21 +4,17 @@ $(document).ready(function() {
   // $("div.firstheading").toggle( "bounce", { times: 3 }, "slow" );
   // $("div.secondheading").toggle( "bounce", { times: 3 }, "slow" );
 
-  $( ".firstheading" ).animate({
-    // width: "100%",
-    // opacity: 0.4,
-    // marginLeft: "0.6in",
-    // fontSize: "3em",
-    // borderWidth: "10px"
-  }, 1500 );
-
-  $( ".secondheading" ).animate({
-    // width: "100%",
-    // opacity: 0.4,
-    // marginRight: "0.6in",
-    // fontSize: "3em",
-    // borderWidth: "10px"
-  }, 1500 );
+  // $( ".headingtext" ).animate({
+  //   // width: "100%",
+  //   // opacity: 0.4,
+  //   marginLeft: "0.2in",
+  //   // fontSize: "3em",
+  //   // borderWidth: "10px"
+  // }, 1500 );
+  // $(".headingtext").click(function() {
+  //   console.log("clickkkkk")
+  //   $(this).css("color", "red");
+  // });
 
 
   $(".scroll-down").bind("mouseover", function(e){
