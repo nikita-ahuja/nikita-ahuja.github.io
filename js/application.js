@@ -1,5 +1,9 @@
 $(document).ready(function() {
 
+  $("div.hidden").fadeIn(5000).removeClass('hidden');
+  // $("div.firstheading").toggle( "bounce", { times: 3 }, "slow" );
+  // $("div.secondheading").toggle( "bounce", { times: 3 }, "slow" );
+
   $(".scroll-down").bind("mouseover", function(e){
   e.preventDefault();
   $(this).css("color", "#fed136")
