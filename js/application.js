@@ -5,15 +5,15 @@ $(document).ready(function() {
   // $("div.secondheading").toggle( "bounce", { times: 3 }, "slow" );
 
   $( ".firstheading" ).animate({
-    width: "100%",
+    // width: "100%",
     // opacity: 0.4,
-    marginLeft: "0.6in",
+    // marginLeft: "0.6in",
     // fontSize: "3em",
     // borderWidth: "10px"
   }, 1500 );
 
   $( ".secondheading" ).animate({
-    width: "100%",
+    // width: "100%",
     // opacity: 0.4,
     // marginRight: "0.6in",
     // fontSize: "3em",
