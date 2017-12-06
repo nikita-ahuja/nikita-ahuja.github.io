@@ -26,6 +26,7 @@ $(document).ready(function() {
 
   $(".scroll-down").addGlow({
     radius: 10,
+    textColor: '#ffa',
     haloColor: '#ffa',
     duration: 200
   });
