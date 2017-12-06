@@ -24,6 +24,18 @@ div.hidden {
   text-align: center;
   margin: auto;
 }
+
+#sidenote{
+  font-style: italic;
+  letter-spacing: 1px;
+  margin-top: -10px;
+  opacity: 0.8;
+  font-size: 13px;
+  /*width: 40%;*/
+  /*position: relative;*/
+  /*text-align: center;*/
+  /*left: 280px;*/
+}
 /*.intro-text {
   width: 660px;
   /*text-align: center;*/
