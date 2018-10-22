@@ -16,6 +16,12 @@ div.hidden {
   display: none
 }
 
+.left {
+  padding-right: 500px;
+  outline: solid black 3px;
+  width: 900px;
+}
+
 .container {
   padding-bottom: -50px;
 }
